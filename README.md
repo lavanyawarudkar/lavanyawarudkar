@@ -22,6 +22,7 @@
 
 # 🍎 Terminal Profile
 
+
 <div align="center">
 
 ```bash
@@ -30,28 +31,31 @@
 ╰────────────────────────────────────────────╯
 
 lavanya@macbook:~$ whoami
-Lavanya Warudkar
+→ Lavanya Warudkar
 
 lavanya@macbook:~$ education
-B.Tech Information Technology
-S.B. Jain Institute, Nagpur
+→ B.Tech in Information Technology
+→ S.B. Jain Institute, Nagpur
 
 lavanya@macbook:~$ year
-First Year Engineering Student
+→ First Year Engineering Student
 
 lavanya@macbook:~$ interests
-Programming
-Software Development
-Automation
+→ Programming
+→ Software Development
+→ Automation
 
 lavanya@macbook:~$ currently_learning
-C Programming
-Python
-Data Structures
+→ C Programming
+→ Python
+→ Data Structures
 
 lavanya@macbook:~$ goal
-Become a Software Engineer 🚀
+→ Become a Software Engineer 🚀
 ```
+
+</div>
+
 
 </div>
 
