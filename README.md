@@ -9,12 +9,20 @@
 
 ---
 
-### 🖥️ root@lavanyawarudkar:~/about-me
-```javascript
-const student = {
-  name: "Lavanya Warudkar",
-  college: "S.B. Jain Institute of Technology (SBJITMR)",
-  department: "Information Technology",
-  year: "First Year (2024-2028)",
-  hobbies: ["Building Automation", "Exploring Linux", "Coffee & Code"]
-};
+### 💻 lavanya@macbook: ~/sb-jain-it/profile (zsh)
+```zsh
+# Initializing profile...
+# Status: 1st Year Student 🎓
+
+class Developer {
+  constructor() {
+    this.name = "Lavanya Warudkar";
+    this.college = "S.B. Jain Institute of Technology (SBJITMR)";
+    this.department = "Information Technology";
+    this.location = "Nagpur, MH";
+    this.currentFocus = ["Learning C", "Python Automation", "DSA"];
+  }
+}
+
+// Running status...
+// [SUCCESS] Profile loaded for Academic Year 2024-2028
