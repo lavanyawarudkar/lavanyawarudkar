@@ -23,8 +23,6 @@
 # 🍎 Terminal Profile
 
 
-<div align="center">
-
 ```bash
 ╭────────────────────────────────────────────╮
 │ 🔴 🟡 🟢   lavanya@macbook — terminal      │
