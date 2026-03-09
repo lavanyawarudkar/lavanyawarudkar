@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lavanya%20Warudkar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Lavanya%20Warudkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4C8EDA&center=true&vCenter=true&width=650&lines=Hi+There+👋;1st+Year+IT+Engineering+Student;S.B.+Jain+Institute+Nagpur;Learning+C+Python+and+DSA;Future+Software+Engineer+🚀" />
 
@@ -81,49 +81,11 @@ Coding • Learning • Growing 🚀
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lavanyawarudkar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyawarudkar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanyawarudkar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/lavanyawarudkar?theme=dark&font=Fira%20Code&ext=contest" />
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lavanyawarudkar&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </p>
 
@@ -147,7 +109,7 @@ Coding • Learning • Growing 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer"/>
 
 ⭐ **"Every expert was once a beginner."**
 
