@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Lavanya Warudkar 👋
 
-<!--
-**lavanyawarudkar/lavanyawarudkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 1st Year IT Engineering Student @ S.B. Jain Institute
+I am an aspiring Software Engineer focused on Information Technology and Automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=lavanyawarudkar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect
+[LinkedIn]() | [Email](mailto:lavanyawarudkar5@gmail.com)
