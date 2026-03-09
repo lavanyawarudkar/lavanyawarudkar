@@ -10,9 +10,9 @@
 ---
 
 ### 💻 System Status
-<img src="https://carbon-now-sh.herokuapp.com/?api=https%3A%2F%2Fgist.githubusercontent.com%2F[YOUR_GIST_ID]%2Fraw&theme=dracula&backgroundColor=rgba(0,0,0,0)&windowTheme=mac" alt="Terminal Profile" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A6E22E&background=1A1B27&center=true&vCenter=true&width=600&height=200&lines=lavanya@macbook:~/sb-jain-it%20%24%20cat%20profile.js;class+Developer+%7B;++name%3A+'Lavanya+Warudkar'%2C;++college%3A+'S.B.+Jain+Institute'%2C;++year%3A+'First+Year'%0A%7D" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=18&pause=500&color=A9B1D6&background=1A1B26&width=600&height=250&center=true&vCenter=true&lines=%EE%82%B0+lavanya@macbook:+~/sb-jain-it/profile;-----------------------------------------;🎓+Degree:+B.Tech+in+IT;🏫+Institute:+S.B.+Jain+Nagpur;🌱+Learning:+C,+Python,+%26+DSA;🚀+Status:+Initializing+First+Year...;-----------------------------------------;%E2%9C%94+Profile+Loaded+Successfully!" />
+</p>
 
 ---
 
