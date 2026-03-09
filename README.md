@@ -2,9 +2,9 @@
 
 # Hi there, I'm Lavanya Warudkar 👋
   
-### 🚀 1st Year IT Student @ S.B. Jain Institute
+### 🚀 I am a 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Learning+Data+Structures;Python+%26+C+Programmer;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=1st+Year+IT+Engineering+Student;S.B.+Jain+Institute+Student;Aspiring+Software+Engineer;Automation+Enthusiast" alt="Typing SVG" />
 </a>
 
 ---
