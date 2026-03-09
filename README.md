@@ -20,38 +20,41 @@
 
 ---
 
-# 🍎 Mac Terminal Profile
+# 🍎 Terminal Profile
 
-```
-╭──────────────────────────────────────────────╮
-│  ●  ●  ●        lavanya@macbook — terminal   │
-╰──────────────────────────────────────────────╯
+<div align="center">
+
+```bash
+╭────────────────────────────────────────────╮
+│ 🔴 🟡 🟢   lavanya@macbook — terminal      │
+╰────────────────────────────────────────────╯
 
 lavanya@macbook:~$ whoami
 Lavanya Warudkar
 
 lavanya@macbook:~$ education
 B.Tech Information Technology
-S.B. Jain Institute of Technology
+S.B. Jain Institute, Nagpur
 
 lavanya@macbook:~$ year
 First Year Engineering Student
 
-lavanya@macbook:~$ skills
+lavanya@macbook:~$ interests
+Programming
+Software Development
+Automation
+
+lavanya@macbook:~$ currently_learning
 C Programming
 Python
-Git & GitHub
-
-lavanya@macbook:~$ currently-learning
 Data Structures
-Problem Solving
 
 lavanya@macbook:~$ goal
-Become a Software Engineer
-
-lavanya@macbook:~$ status
-Coding • Learning • Growing 🚀
+Become a Software Engineer 🚀
 ```
+
+</div>
+
 
 ---
 
